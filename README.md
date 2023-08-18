@@ -29,11 +29,11 @@ I'm an Information System student
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
+<!--
 ## 📫 &nbsp; Reach me on:
 
 <a href="https://www.linkedin.com/in/fauziirfans/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/fauipang"><img src="https://img.shields.io/badge/-@fauipang_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-
+-->
 
