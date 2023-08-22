@@ -1,6 +1,6 @@
 # Hi folks! 
 
-I'm **Fauzi irfan Syaputra**.
+I'm **Fauzi Irfan Syaputra**.
 
 I'm an Information System student
 
