@@ -15,9 +15,9 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=weedstream&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+<!--
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=weedstream&hide_border=true&theme=radical">
-
+-->
 
 <!--| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=weedstream&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@weedstream)
 | ------------- | -->
