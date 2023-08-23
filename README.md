@@ -6,7 +6,7 @@
 
 <br>
 <div align="center">
-  <h2>🔥 Github Stats</h2>
+  <h2>🔥 Github Stats 🔥</h2>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weedstream&theme=aura_dark" alt="Profile Details">
   <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weedstream&theme=aura_dark" alt="Repos per Language">
@@ -35,7 +35,7 @@
 | ------------- | -->
 
 <div align="center">
-  <h2>🛠 &nbsp;Tech Stack</h2>
+  <h2>🛠 &nbsp;Tech Stack 🛠️</h2>
 </div>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
