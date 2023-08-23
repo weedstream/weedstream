@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=weedstream.weedstream" />
+
 # Hi folks! 
 
 I'm **Fauzi Irfan Syaputra**.
