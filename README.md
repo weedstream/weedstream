@@ -2,11 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+folks!+👋;+I'm+Fauzi+Irfan+Syaputra!;" />
 </h1>
 
-# Hi folks! 
-
-I'm **Fauzi Irfan Syaputra**.
-
-I'm an Information System student
+<h3 align="center">I'm an Information System student</h3>
 
 
 ## 🔥 Github Stats
