@@ -56,4 +56,10 @@
 <a href="mailto:#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/fauipang"><img src="https://img.shields.io/badge/-@fauipang_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 -->
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/weedstream/weedstream/output/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
+</div>
