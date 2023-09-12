@@ -9,7 +9,9 @@
 <br>
 <div align="center">
   <h2>🔥 Github Stats 🔥</h2>
+    <!--
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weedstream&theme=aura_dark" alt="Profile Details">
+    -->
   <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weedstream&theme=aura_dark" alt="Repos per Language">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weedstream&theme=aura_dark" alt="Most Commit Language">
