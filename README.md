@@ -7,11 +7,13 @@
 -->
 
 <br>
-<div align="center">
-  <h2>🔥 Github Stats 🔥</h2>
-    <!--
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weedstream&theme=aura_dark" alt="Profile Details">
-    -->
+<div>
+  <h3>Github Stats</h3>
+  <img src="https://streak-stats.demolab.com?user=weedstream&theme=tokyonight-duo" alt="weedstream">
+    
+ </div>   
+
+<!--
   <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weedstream&theme=aura_dark" alt="Repos per Language">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weedstream&theme=aura_dark" alt="Most Commit Language">
@@ -21,6 +23,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=weedstream&theme=aura_dark&utcOffset=7" alt="Productive Time">
   </div>
 </div>
+-->
 <!--
 <img align="center" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=weedstream&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="weedstream's GitHub Stats"> || <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=weedstream&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="weedstream's Most Used Language">
 <!--
@@ -38,9 +41,10 @@
 <!--| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=weedstream&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@weedstream)
 | ------------- | -->
 
-<div align="center">
-  <h2>🛠 &nbsp;Tech Stack 🛠️</h2>
+<div>
+  <h3>Tools</h3>
 </div>
+
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -62,9 +66,8 @@
 <a href="mailto:#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/fauipang"><img src="https://img.shields.io/badge/-@fauipang_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 -->
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<div>
+  <h3>My Contributions</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/weedstream/weedstream/output/github-contribution-grid-snake-dark.svg" />
-  
   <br/><br/><br/>
 </div>
