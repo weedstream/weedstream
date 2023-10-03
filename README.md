@@ -9,7 +9,8 @@
 <br>
 <div>
   <h3>Github Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=weedstream&theme=tokyonight-duo" alt="weedstream" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=weedstream&theme=tokyonight-duo" alt="weedstream" /> -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weedstream&theme=aura_dark" alt="weedstream">
  </div>   
 
 <!--
