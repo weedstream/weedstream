@@ -9,8 +9,7 @@
 <br>
 <div>
   <h3>Github Stats</h3>
-  <img src="https://streak-stats.demolab.com?user=weedstream&theme=tokyonight-duo" alt="weedstream">
-    
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=weedstream&theme=tokyonight-duo" alt="weedstream" />
  </div>   
 
 <!--
