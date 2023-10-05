@@ -67,7 +67,7 @@
 <a href="https://instagram.com/fauipang"><img src="https://img.shields.io/badge/-@fauipang_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 -->
 <div>
-  <h3>My Contributions</h3>
+  <h3>Snake Contributions</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/weedstream/weedstream/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
 </div>
